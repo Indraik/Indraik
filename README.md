@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=indrakumarv&label=Profile%20Views&color=6&icon=5&pretty=true">
-    <img src="https://visitcount.itsvg.in/api?id=indrakumarv&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <a href="https://visitcount.itsvg.in/api?id=Indraik&label=Profile%20Views&color=6&icon=5&pretty=true">
+    <img src="https://visitcount.itsvg.in/api?id=Indraik&label=Profile%20Views&color=6&icon=5&pretty=true" />
   </a>
   <img src="https://img.shields.io/badge/TryHackMe-Top%2010%25%20Global-red?style=flat-square&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/IEEE-Published%20Researcher-blue?style=flat-square&logo=ieee&logoColor=white" />
@@ -113,9 +113,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrakumarv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Indraik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrakumarv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="180" />
 </p>
 
 ---
@@ -123,7 +123,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=indrakumarv&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Indraik&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrakumarv&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indraik&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </p>
 
 ---
@@ -139,7 +139,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indrakumarv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Indraik&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </p>
 
 ---
