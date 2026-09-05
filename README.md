@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Indra%20Kumar%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder%20%26%20Breaker%20%7C%20Cybersecurity%20Engineer%20%7C%20SOC%20Analyst%20in%20the%20Making&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Indra%20Kumar%20V&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Builder%20and%20Breaker%20%7C%20Cybersecurity%20Engineer%20%7C%20SOC%20Analyst%20in%20the%20Making&descAlignY=62&descSize=15" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Indraik&label=Profile%20Views&color=6&icon=5&pretty=true">
-    <img src="https://visitcount.itsvg.in/api?id=Indraik&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Indraik&color=70a5fd&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/TryHackMe-Top%2010%25%20Global-red?style=flat-square&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/IEEE-Published%20Researcher-blue?style=flat-square&logo=ieee&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cybersecurity+Engineer+%7C+B.E.+CS+(Cyber+Security);Threat+Intelligence+%7C+OSINT+%7C+SOC+Analyst;Builder+by+Day+%2C+Hunter+by+Night+%F0%9F%8C%99;IEEE+Published+%7C+Tamil+Nadu+Cyber+Crime+Intern" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cybersecurity+Engineer+%7C+B.E.+CS+(Cyber+Security);Threat+Intelligence+%7C+OSINT+%7C+SOC+Analyst;Builder+by+Day+%2C+Hunter+by+Night;IEEE+Published+%7C+Tamil+Nadu+Cyber+Crime+Intern" />
 </p>
 
 ---
@@ -29,7 +27,7 @@ class IndraKumarV:
         self.name             = "Indra Kumar V"
         self.location         = "Avinashi, Tamil Nadu, India 🇮🇳"
         self.degree           = "B.E. Computer Science & Engineering (Cyber Security) — 2027"
-        self.institution      = "Dr. N.G.P. Institute of Technology  |  CGPA: 7.95"
+        self.institution      = "Dr. N.G.P. Institute of Technology  |  CGPA: 8.04"
         self.email            = "indrakumarvelusamy@gmail.com"
 
         self.stack = [
@@ -110,12 +108,16 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indraik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indraik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Indraik&theme=tokyonight" width="100%" alt="Indraik's GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Indraik&theme=tokyonight" width="49%" alt="Repos Per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Indraik&theme=tokyonight" width="49%" alt="Most Commit Language" />
 </p>
 
 ---
@@ -123,23 +125,29 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Indraik&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <a href="https://github.com/Indraik">
+    <img src="https://streak-stats.demolab.com?user=Indraik&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=10" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indraik&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</p>
-
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Badges & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Indraik&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <a href="https://tryhackme.com/p/Indraik" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%2010%25%20Global-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Top 10%" />
+  </a>
+  &nbsp;
+  <a href="https://ieeexplore.ieee.org" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE-Published%20Researcher-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Published Researcher" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Gold%20Certified-FFD700?style=for-the-badge&logo=target&logoColor=black" alt="NPTEL Gold" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tamil%20Nadu-Cyber%20Crime%20Intern-2E7D32?style=for-the-badge&logo=shield&logoColor=white" alt="TN Cyber Crime Intern" />
 </p>
 
 ---
@@ -204,7 +212,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| B.E. Computer Science & Engineering (Cyber Security) | Dr. N.G.P. Institute of Technology | 2023 – 2027 | CGPA: 7.95 |
+| B.E. Computer Science & Engineering (Cyber Security) | Dr. N.G.P. Institute of Technology | 2023 – 2027 | CGPA: 8.04 |
 
 </p>
 
@@ -233,9 +241,10 @@ print(me.motto())
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
 </p>
 
 <p align="center">
-  <i>💬 "The quieter you become, the more you are able to hear." — Ram Dass &nbsp;|&nbsp; Applied to threat hunting since 2023.</i>
+  <i>💬 "The quieter you become, the more you are able to hear." — Indra &nbsp;|&nbsp; Applied to threat hunting since 2023.</i>
 </p>
+
