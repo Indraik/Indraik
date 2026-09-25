@@ -223,8 +223,6 @@ print(me.motto())
 | 2025 | Practical Cyber Security for Practitioners (Elite + Gold) | NPTEL |
 | 2025 | Privacy and Security in Online Social Media (Elite) | NPTEL |
 | 2024 | Cyber Security and Privacy | NPTEL |
-| 2026 | Network Security Lab (Practical Training) | EC-Council |
-| 2026 | Kali Linux for Penetration Testers | EC-Council |
 
 ---
 
